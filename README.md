@@ -1,3 +1,3 @@
 # practice Git and Github
-I am revising the concepts of git &amp; github.
+I am revising the concepts of Git &amp; Github.  <br>
 Author - Er. Kiran Kumar Sir
